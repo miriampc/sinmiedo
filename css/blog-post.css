@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+.navbar-nav .nav-link {
+    color: #6A1B9A !important;
+    font-weight: 700;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #6A1B9A;
+}
+
+.mt-4{
+	color: #000;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.text-filtro{
+	font-weight: 700;
+	padding-top: 5px;
+}
+
+.box{
+	background: #EFEFEF;
+    padding: 15px 25px;
+    position: relative; 
+}
+
+.distrito{
+	background: #C4C4C4;
+    padding: 5px 10px;
+    color: #fff;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.nombre{
+	font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+}
+
+.titular{
+	margin: 0;
+    font-weight: 500;
+    color: #727272;
+}
+
+.leer-mas{
+	display: block;
+}
