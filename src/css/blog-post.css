@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
- */
-
 .navbar-nav .nav-link {
     color: #6A1B9A !important;
     font-weight: 700;
@@ -54,4 +48,56 @@
 
 .leer-mas{
 	display: block;
+}
+
+textarea.form-control {
+    min-height: 150px;
+}
+
+.t-denuncia{
+	color: #6A1B9A;
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.btn-color{
+	background: #6A1B9A;
+	font-weight: 700;
+	color: #fff;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.btn-color:hover{
+	background: #ffffff;
+	color: #6A1B9A;
+}
+
+.btn-enviar{
+	margin: 20px auto 40px;
+}
+
+.mensaje {
+    position: fixed;
+    bottom: 65%;
+    right: 0;
+}
+.color-base{
+    background: #6A1B9A;
+    color:#fff;
+    padding: 30px;
+}
+.dato-general{
+    margin: 0;
+    font-size: 50px;
+    background: #6A1B9A;
+}
+.datos{
+    font-size: 24px;
+}
+.datos span{
+    font-size: 16px;
+}
+footer.bg-dark {
+    background: #1b1b1b !important;
 }
